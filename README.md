@@ -1,5 +1,8 @@
 # Guess-my-number
 
+Please try it out the game here:
+FireBase Web App: https://guess-my-number-1c94c.web.app/
+
 In this project I have mainly focused in Javascript fundamentals, DOM Manipulation, Event Listener, logics and Refactoring.
 
 Game Concept:
